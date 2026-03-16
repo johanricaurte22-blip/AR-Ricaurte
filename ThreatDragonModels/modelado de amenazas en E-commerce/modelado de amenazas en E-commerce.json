@@ -11,7 +11,7 @@
     "diagrams": [
       {
         "id": 1,
-        "title": "Nuevo diagrama STRIDE",
+        "title": "amenazas en Ecommerce",
         "diagramType": "STRIDE",
         "placeholder": "Descripción de nuevo diagrama STRIDE",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
