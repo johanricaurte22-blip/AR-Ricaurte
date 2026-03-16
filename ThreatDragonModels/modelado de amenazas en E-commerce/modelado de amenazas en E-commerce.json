@@ -1,0 +1,16 @@
+{
+  "version": "2.6.0",
+  "summary": {
+    "title": "modelado de amenazas en E-commerce",
+    "owner": "johan",
+    "description": "como son las amenazas en compras y transacciones en linea",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
