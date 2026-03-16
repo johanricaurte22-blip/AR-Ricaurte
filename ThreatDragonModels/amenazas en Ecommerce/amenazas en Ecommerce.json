@@ -1,0 +1,27 @@
+{
+  "version": "2.6.0",
+  "summary": {
+    "title": "amenazas en Ecommerce",
+    "owner": "johan",
+    "description": "como son las amenazas en transacciones en linea",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "amenazas_en_Ecommerce",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.0",
+        "cells": [],
+        "description": "amenazas_en_Ecommerce"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
